@@ -1,2 +1,2 @@
 # Problem-Solving-HackerRank
-number
+
