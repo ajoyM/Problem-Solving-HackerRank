@@ -1,3 +1,11 @@
+// Input:
+// 2
+// 10
+// 50
+// Output:
+// 0 1 2 3 4 5 6 7 8 9 10
+// 0 1 2 3 4 5 6 7 8 9 10 12 21 23 32 34 43 45
+
 #include <bits/stdc++.h> 
 using namespace std;
 
